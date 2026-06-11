@@ -15,7 +15,7 @@ const projects = [
     tech: ["React.js", "Node.js", "MongoDB"],
     github: "https://github.com/Archit-Stack428/smart-todo-app",
     live: "",
-    image: "/images/smart_todo.png",
+    image: `${import.meta.env.BASE_URL}images/smart_todo.png`,
   },
   {
     num: "02",
@@ -26,7 +26,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript", "API Integration"],
     github: "https://github.com/Archit-Stack428/Weather-app",
     live: "",
-    image: "/images/weather.png",
+    image: `${import.meta.env.BASE_URL}images/weather.png`,
   },
   {
     num: "03",
@@ -37,7 +37,7 @@ const projects = [
     tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
     github: "https://github.com/Archit-Stack428/Excpence-Tracker",
     live: "",
-    image: "/images/expense.png",
+    image: `${import.meta.env.BASE_URL}images/expense.png`,
   },
 ];
 
