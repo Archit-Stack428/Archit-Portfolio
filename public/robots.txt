@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://archit-stack428.github.io/Archit-Portfolio/sitemap.xml
+Sitemap: https://archit-portfolio-two.vercel.app/sitemap.xml
